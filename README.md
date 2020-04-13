@@ -5,3 +5,21 @@
 
 LAMG (stands for Lambda Angular Mongodb Github) is full stack solution stack which helps you develop or prototype lightweight, maintainable and less-complex web applications. The goal of LAMG is to offer you a solution stack which has absolutely zero cost specially tartgeting application prototyping and pilot apps.
 
+## Components 
+
+**L - AWS Lambda**
+
+Back-end business logic will be implemented in seperate Lambda functions using your favourite programming language(Eg- Javascript). Lambda services will be exposed to outside world via AWS API Gateway.
+
+**A - Angular**
+
+Fron-end of the solution will be implemented with Angular which is very nice framework with all things we need. Feel free to use any kind of UI library such as bootstrap, material etc.
+
+**M - Mongodb**
+
+If you need persistant service to store data LAMG suggests to go ahead with online mongodb instance which is free.
+
+**G - Github**
+
+Your client will be deployed into Github pages which is abosultely free. Additionally since it is Github you will have free github.io subdomain, Github actions, source code management services too.
+
