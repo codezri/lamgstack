@@ -53,4 +53,5 @@ $ ng deploy --base-href=/the-repositoryname/
 - [movieszri](https://codezri.org/movieszri/)
 - Did you build your app with LAMG? Send us a pull request!
 
-*P.S: Don't confuse with the word stack which refers on top of like, this solution is distributed over monolithic*
+
+*P.S: Don't confuse with the word stack which refers on top of like, this solution is very much distributed over monolithic*
