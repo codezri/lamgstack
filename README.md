@@ -23,3 +23,31 @@ If you need persistant service to store data LAMG suggests to go ahead with onli
 
 Your client will be deployed into Github pages which is abosultely free. Additionally since it is Github you will have free github.io subdomain, Github actions, source code management services too.
 
+## Get started!
+
+**STEP 1**
+
+Create a repository on Github and enable pages feature for `gh-pages` branch.
+
+**STEP 2**
+
+Create new Angular app and install [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) as a global module.
+
+**STEP 3**
+
+Sign up for AWS and create lambda functions as you need. Eventually make sure to expose those via API gateway. If your backend has multiple functions use [Serverless framework](https://serverless.com/);
+
+**STEP 4**
+
+If you need to persist your data signup and get free 512MB instance on Mongodb cloud.
+
+**STEP 5**
+
+Once everything is set, deploy client using 
+```
+$ ng deploy --base-href=/the-repositoryname/
+```
+
+## Example apps built with LAMG stack
+
+- [movieszri](https://codezri.org/movieszri/)
