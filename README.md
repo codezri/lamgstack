@@ -17,7 +17,7 @@ Front-end of the solution will be implemented with Angular which is very nice fr
 
 **M - Mongodb**
 
-If you need persistant service to store data, LAMG suggests to go ahead with online Mongodb instance which is free.
+If you need persistant service to store data, LAMG suggests to go ahead with small online Mongodb instance which is free.
 
 **G - Github**
 
