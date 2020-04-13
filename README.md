@@ -3,7 +3,7 @@
 
 ## What is LAMG?
 
-LAMG (stands for Lambda Angular Mongodb Github) is a full-stack solution which helps you develop or prototype lightweight, maintainable and less-complex web applications. The key goal of LAMG is to offer you a solution stack which has absolutely zero cost specially tartgeting application prototyping, pilot apps or even for production use.
+LAMG (stands for Lambda Angular Mongodb Github) is a full-stack solution which helps you develop or prototype lightweight, maintainable and less-complex web applications. The key goal of LAMG is to offer you a solution stack which has absolutely zero cost specially targeting application prototyping, pilot apps and for production use cases.
 
 ## LAMG Components 
 
